@@ -1,4 +1,4 @@
-h1>Repositório com todos os meu exercícios realizados durante o curso da Trybe!</h1>
+<h1>Repositório com todos os meu exercícios realizados durante o curso da Trybe!</h1>
 
 Neste curso, irei aprender os conteúdos necessários para me tornar uma pessoa desenvolvedora web júnior, isto é, em início de carreira, contemplando conteúdos como: Fundamentos do Desenvolvimento Web, Desenvolvimento Front-end, Desenvolvimento Back-end e Introdução à Ciência da Computação. Além disso, aprenderei sobre a vida real de uma pessoa desenvolvedora de software, metodologias ágeis e soft skills!
 
