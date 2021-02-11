@@ -1,0 +1,44 @@
+h1{
+    font-size: 65px;
+    color: orange;
+    font-family: sans-serif;
+}
+
+ul{
+    background-color: yellow;
+}
+
+.fundo-igual{
+    background-color: red;
+}
+
+body{
+    font-size: 16px;
+}
+
+p{
+    font-weight: 600;
+    font-size: 3em;
+    text-decoration:  underline;
+    text-align: center;
+}
+
+.linhaAmarela{
+    background-color: yellow;
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+    line-height: 50px;
+    text-align: center;
+}
+
+.linhaVermelha{
+    background-color: rgb(253, 115, 115);
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 30px;
+}
+
+.linhaMarrom{
+    background-color: brown;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    line-height: 15px;
+    text-align: right;
+}
