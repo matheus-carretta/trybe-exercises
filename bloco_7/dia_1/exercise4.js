@@ -14,4 +14,4 @@ const longestWord = frase => {
   return maiorPalavra;
 }
 
-console.log(longestWord("Antônio foi no banheiro e não sabemos o que aconteceu"))
+console.log(longestWord("Antônio foi no banheiro e não sabemos o que aconteceu"));
