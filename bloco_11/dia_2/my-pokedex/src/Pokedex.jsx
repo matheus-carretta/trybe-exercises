@@ -5,7 +5,7 @@ import Pokemon from './Pokemon';
 class Pokedex extends React.Component{
   render(){
     return (
-      <div className='pokemonList'>
+      <div className='pokedex'>
         {data.map((pokemon) => <Pokemon pokemon={pokemon} key={pokemon.id} />)}
       </div>
     )

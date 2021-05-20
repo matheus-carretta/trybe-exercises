@@ -2,17 +2,59 @@
   text-align: center;
 }
 
-.pokemonList {
+.pokemon {
   display: flex;
-  justify-content: center;
-  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-evenly;
+  flex: 1 1 auto;
+  min-width: 25%;
+  margin: 10px;
+  border: 1px gray solid;
+  box-shadow: 1px 1px 10px black;
+  padding: 5px;
 }
 
-.pokemonCard {
+.pokedex {
   display: flex;
-  justify-content: space-evenly;
-  border: 1px solid black;
-  width: 300px;
-  margin: 5px;
-  padding: 5px;
+  flex-wrap: wrap;
+  margin: 10px 10px;
+}
+
+.pokeImg {
+  width: 20%;
+}
+
+.fire {
+  color: orange;
+  text-shadow: 2px 2px black;
+}
+
+.normal {
+  color: grey;
+  text-shadow: 2px 2px black;
+}
+
+.electric {
+  color: #FCFF33;
+  text-shadow: 2px 2px black;
+}
+
+.bug {
+  color: darkgreen;
+  text-shadow: 2px 2px black;
+}
+
+.psychic {
+  color: #EAA0BA;
+  text-shadow: 2px 2px black;
+}
+
+.poison {
+  color: darkmagenta;
+  text-shadow: 2px 2px black;
+}
+
+.dragon {
+  color: #273FC8;
+  text-shadow: 2px 2px black;
 }
